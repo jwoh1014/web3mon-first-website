@@ -32,7 +32,7 @@ class MyDocument extends Document {
           />
           <meta property="og:image" content="/img/favicon.png" />
           <meta name="author" content="" />
-          <link rel="shortcut icon" href="/img/favicon.png" />
+          <link rel="shortcut icon" href="/img/favicon1.png" />
         </Head>
 
         <body>

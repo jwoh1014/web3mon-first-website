@@ -61,7 +61,7 @@ const NavbarFullMenu = ({ theme }) => {
                   <li>
                     <div className="o-hidden">
                       <a
-                        href="https://web3mon-beta.vercel.app/"
+                        href="https://demo.web3mon.io/"
                         target="_blank"
                         rel="noreferrer"
                         className="link"
@@ -123,6 +123,19 @@ const NavbarFullMenu = ({ theme }) => {
                     className="link"
                   >
                     <p> @web3mon</p>
+                  </a>
+                </div>
+
+                <div className="item">
+                  <h6>Discord :</h6>
+                  <a
+                    a
+                    href="https://discord.gg/jwfpBe7qbU"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="link"
+                  >
+                    <p>https://discord.gg/jwfpBe7qbU</p>
                   </a>
                 </div>
 

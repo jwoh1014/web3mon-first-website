@@ -89,7 +89,7 @@ const ShowcasesFullScreen = () => {
                         <div className="caption">
                           <h1>
                             <a
-                              href="https://web3mon-beta.vercel.app/"
+                              href="https://demo.web3mon.io/"
                               target="_blank"
                               rel="noreferrer"
                               className="link"
@@ -110,7 +110,7 @@ const ShowcasesFullScreen = () => {
                           </h1>
                           <div className="discover">
                             <a
-                              href="https://web3mon-beta.vercel.app/"
+                              href="https://demo.web3mon.io/"
                               target="_blank"
                               rel="noreferrer"
                               className="link"

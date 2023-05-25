@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <title>Web3Mon | The First NFT Multiverse Game</title>
-        <link rel="icon" href="/img/favicon.png" />
+        <link rel="icon" href="/img/favicon1.png" />
         <meta property="og:image" content="/img/favicon.png" />
       </Head>
       <Component {...pageProps} />
